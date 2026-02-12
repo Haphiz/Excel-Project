@@ -33,3 +33,9 @@ The TMNT Retail wants to create a monthly sales report. The Sales Director can u
 
 ## Dashboard
 <img width="987" height="538" alt="dashboard" src="https://github.com/user-attachments/assets/193b1929-91f1-467f-a6e5-26b10c363264" />
+
+## Project Insight
+- The month of May recorded the highest revenue
+- The product that generate the overall more sales is clocks
+- Donald Reynolds Sales team are the most effective team
+- Decoratives has the highest revenue in the product categoies
